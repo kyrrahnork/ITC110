@@ -1,0 +1,6 @@
+C:\Users\knork\Desktop\ITC 110\PeerExForLoops\PeerExForLoops\bin\Debug\PeerExForLoops.exe.config
+C:\Users\knork\Desktop\ITC 110\PeerExForLoops\PeerExForLoops\bin\Debug\PeerExForLoops.exe
+C:\Users\knork\Desktop\ITC 110\PeerExForLoops\PeerExForLoops\bin\Debug\PeerExForLoops.pdb
+C:\Users\knork\Desktop\ITC 110\PeerExForLoops\PeerExForLoops\obj\Debug\PeerExForLoops.csprojResolveAssemblyReference.cache
+C:\Users\knork\Desktop\ITC 110\PeerExForLoops\PeerExForLoops\obj\Debug\PeerExForLoops.exe
+C:\Users\knork\Desktop\ITC 110\PeerExForLoops\PeerExForLoops\obj\Debug\PeerExForLoops.pdb

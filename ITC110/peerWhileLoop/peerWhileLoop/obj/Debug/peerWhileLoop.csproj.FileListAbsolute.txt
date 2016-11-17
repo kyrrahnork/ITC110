@@ -1,0 +1,6 @@
+C:\Users\knork\Desktop\ITC 110\peerWhileLoop\peerWhileLoop\bin\Debug\peerWhileLoop.exe.config
+C:\Users\knork\Desktop\ITC 110\peerWhileLoop\peerWhileLoop\obj\Debug\peerWhileLoop.csprojResolveAssemblyReference.cache
+C:\Users\knork\Desktop\ITC 110\peerWhileLoop\peerWhileLoop\bin\Debug\peerWhileLoop.exe
+C:\Users\knork\Desktop\ITC 110\peerWhileLoop\peerWhileLoop\bin\Debug\peerWhileLoop.pdb
+C:\Users\knork\Desktop\ITC 110\peerWhileLoop\peerWhileLoop\obj\Debug\peerWhileLoop.exe
+C:\Users\knork\Desktop\ITC 110\peerWhileLoop\peerWhileLoop\obj\Debug\peerWhileLoop.pdb

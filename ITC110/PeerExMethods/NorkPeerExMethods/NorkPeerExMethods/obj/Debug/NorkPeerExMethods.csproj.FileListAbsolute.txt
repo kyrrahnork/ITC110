@@ -1,0 +1,6 @@
+C:\Users\knork\Desktop\ITC110\PeerExMethods\NorkPeerExMethods\NorkPeerExMethods\bin\Debug\NorkPeerExMethods.exe.config
+C:\Users\knork\Desktop\ITC110\PeerExMethods\NorkPeerExMethods\NorkPeerExMethods\obj\Debug\NorkPeerExMethods.csprojResolveAssemblyReference.cache
+C:\Users\knork\Desktop\ITC110\PeerExMethods\NorkPeerExMethods\NorkPeerExMethods\bin\Debug\NorkPeerExMethods.exe
+C:\Users\knork\Desktop\ITC110\PeerExMethods\NorkPeerExMethods\NorkPeerExMethods\bin\Debug\NorkPeerExMethods.pdb
+C:\Users\knork\Desktop\ITC110\PeerExMethods\NorkPeerExMethods\NorkPeerExMethods\obj\Debug\NorkPeerExMethods.exe
+C:\Users\knork\Desktop\ITC110\PeerExMethods\NorkPeerExMethods\NorkPeerExMethods\obj\Debug\NorkPeerExMethods.pdb

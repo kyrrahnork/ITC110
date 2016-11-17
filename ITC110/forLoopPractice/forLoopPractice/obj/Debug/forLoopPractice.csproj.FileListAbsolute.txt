@@ -1,0 +1,6 @@
+E:\ITC 110\forLoopPractice\forLoopPractice\bin\Debug\forLoopPractice.exe.config
+E:\ITC 110\forLoopPractice\forLoopPractice\bin\Debug\forLoopPractice.exe
+E:\ITC 110\forLoopPractice\forLoopPractice\bin\Debug\forLoopPractice.pdb
+E:\ITC 110\forLoopPractice\forLoopPractice\obj\Debug\forLoopPractice.csprojResolveAssemblyReference.cache
+E:\ITC 110\forLoopPractice\forLoopPractice\obj\Debug\forLoopPractice.exe
+E:\ITC 110\forLoopPractice\forLoopPractice\obj\Debug\forLoopPractice.pdb

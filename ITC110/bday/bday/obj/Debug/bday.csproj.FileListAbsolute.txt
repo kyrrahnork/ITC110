@@ -1,0 +1,6 @@
+C:\Users\knork\Desktop\ITC 110\bday\bday\bin\Debug\bday.exe.config
+C:\Users\knork\Desktop\ITC 110\bday\bday\obj\Debug\bday.csprojResolveAssemblyReference.cache
+C:\Users\knork\Desktop\ITC 110\bday\bday\bin\Debug\bday.exe
+C:\Users\knork\Desktop\ITC 110\bday\bday\bin\Debug\bday.pdb
+C:\Users\knork\Desktop\ITC 110\bday\bday\obj\Debug\bday.exe
+C:\Users\knork\Desktop\ITC 110\bday\bday\obj\Debug\bday.pdb

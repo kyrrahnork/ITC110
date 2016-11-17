@@ -1,0 +1,6 @@
+C:\Users\knork\Desktop\ITC110\Assignment5\NorkAssignment5_1\NorkAssignment5_1\bin\Debug\NorkAssignment5_1.exe.config
+C:\Users\knork\Desktop\ITC110\Assignment5\NorkAssignment5_1\NorkAssignment5_1\bin\Debug\NorkAssignment5_1.exe
+C:\Users\knork\Desktop\ITC110\Assignment5\NorkAssignment5_1\NorkAssignment5_1\bin\Debug\NorkAssignment5_1.pdb
+C:\Users\knork\Desktop\ITC110\Assignment5\NorkAssignment5_1\NorkAssignment5_1\obj\Debug\NorkAssignment5_1.csprojResolveAssemblyReference.cache
+C:\Users\knork\Desktop\ITC110\Assignment5\NorkAssignment5_1\NorkAssignment5_1\obj\Debug\NorkAssignment5_1.exe
+C:\Users\knork\Desktop\ITC110\Assignment5\NorkAssignment5_1\NorkAssignment5_1\obj\Debug\NorkAssignment5_1.pdb

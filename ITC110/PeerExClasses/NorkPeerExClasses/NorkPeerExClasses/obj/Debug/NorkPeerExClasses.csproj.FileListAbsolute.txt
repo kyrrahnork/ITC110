@@ -1,0 +1,15 @@
+\\S-C-FS00\SChomes\U991187528\WindowsProfile\Desktop\ITC110\PeerExClasses\NorkPeerExClasses\NorkPeerExClasses\bin\Debug\NorkPeerExClasses.exe.config
+\\S-C-FS00\SChomes\U991187528\WindowsProfile\Desktop\ITC110\PeerExClasses\NorkPeerExClasses\NorkPeerExClasses\obj\Debug\NorkPeerExClasses.csprojResolveAssemblyReference.cache
+\\S-C-FS00\SChomes\U991187528\WindowsProfile\Desktop\ITC110\PeerExClasses\NorkPeerExClasses\NorkPeerExClasses\bin\Debug\NorkPeerExClasses.exe
+\\S-C-FS00\SChomes\U991187528\WindowsProfile\Desktop\ITC110\PeerExClasses\NorkPeerExClasses\NorkPeerExClasses\bin\Debug\NorkPeerExClasses.pdb
+\\S-C-FS00\SChomes\U991187528\WindowsProfile\Desktop\ITC110\PeerExClasses\NorkPeerExClasses\NorkPeerExClasses\obj\Debug\NorkPeerExClasses.exe
+\\S-C-FS00\SChomes\U991187528\WindowsProfile\Desktop\ITC110\PeerExClasses\NorkPeerExClasses\NorkPeerExClasses\obj\Debug\NorkPeerExClasses.pdb
+C:\Users\christopher\Desktop\ITC110\PeerExClasses\NorkPeerExClasses\NorkPeerExClasses\bin\Debug\NorkPeerExClasses.exe.config
+C:\Users\christopher\Desktop\ITC110\PeerExClasses\NorkPeerExClasses\NorkPeerExClasses\obj\Debug\NorkPeerExClasses.exe
+C:\Users\christopher\Desktop\ITC110\PeerExClasses\NorkPeerExClasses\NorkPeerExClasses\obj\Debug\NorkPeerExClasses.pdb
+C:\Users\christopher\Desktop\ITC110\PeerExClasses\NorkPeerExClasses\NorkPeerExClasses\obj\Debug\NorkPeerExClasses.csprojResolveAssemblyReference.cache
+C:\Users\christopher\Desktop\ITC110\PeerExClasses\NorkPeerExClasses\NorkPeerExClasses\bin\Debug\NorkPeerExClasses.exe
+C:\Users\christopher\Desktop\ITC110\PeerExClasses\NorkPeerExClasses\NorkPeerExClasses\bin\Debug\NorkPeerExClasses.pdb
+E:\ITC110\PeerExClasses\NorkPeerExClasses\NorkPeerExClasses\bin\Debug\NorkPeerExClasses.exe.config
+E:\ITC110\PeerExClasses\NorkPeerExClasses\NorkPeerExClasses\obj\Debug\NorkPeerExClasses.exe
+E:\ITC110\PeerExClasses\NorkPeerExClasses\NorkPeerExClasses\obj\Debug\NorkPeerExClasses.pdb

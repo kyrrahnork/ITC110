@@ -1,0 +1,5 @@
+C:\Users\knork\Desktop\ITC 110\Assignment4\Assignment4_2\Assignment4_2\bin\Debug\Assignment4_2.exe.config
+C:\Users\knork\Desktop\ITC 110\Assignment4\Assignment4_2\Assignment4_2\bin\Debug\Assignment4_2.exe
+C:\Users\knork\Desktop\ITC 110\Assignment4\Assignment4_2\Assignment4_2\bin\Debug\Assignment4_2.pdb
+C:\Users\knork\Desktop\ITC 110\Assignment4\Assignment4_2\Assignment4_2\obj\Debug\Assignment4_2.exe
+C:\Users\knork\Desktop\ITC 110\Assignment4\Assignment4_2\Assignment4_2\obj\Debug\Assignment4_2.pdb

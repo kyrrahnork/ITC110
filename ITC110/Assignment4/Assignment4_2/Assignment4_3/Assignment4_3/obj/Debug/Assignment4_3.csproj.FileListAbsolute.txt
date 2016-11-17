@@ -1,0 +1,6 @@
+E:\ITC 110\Assignment4\Assignment4_2\Assignment4_3\Assignment4_3\bin\Debug\Assignment4_3.exe.config
+E:\ITC 110\Assignment4\Assignment4_2\Assignment4_3\Assignment4_3\bin\Debug\Assignment4_3.exe
+E:\ITC 110\Assignment4\Assignment4_2\Assignment4_3\Assignment4_3\bin\Debug\Assignment4_3.pdb
+E:\ITC 110\Assignment4\Assignment4_2\Assignment4_3\Assignment4_3\obj\Debug\Assignment4_3.csprojResolveAssemblyReference.cache
+E:\ITC 110\Assignment4\Assignment4_2\Assignment4_3\Assignment4_3\obj\Debug\Assignment4_3.exe
+E:\ITC 110\Assignment4\Assignment4_2\Assignment4_3\Assignment4_3\obj\Debug\Assignment4_3.pdb

@@ -1,0 +1,32 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+/* This program will Create a while loop that allows a user 3 choices:
+1. returns "you have chosen option one"
+2. returns "You have chosen option two"
+3. quits and returns "goodbye"
+*/
+
+namespace AssignmentPeerExForLoop
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Please choose a number between 1-3");
+            int choice = int.Parse(Console.ReadLine());
+        while (choice > 0 && choice < 4)
+        {
+            if (choice == 1){
+                Console.WriteLine("you have chosen option one");
+            }else if (choice == 2){
+                Console.WriteLine("You have chosen option two");
+            }else Console.WriteLine("goodbye");
+            Console.ReadLine();
+        }
+        }
+    }
+}

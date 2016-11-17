@@ -1,0 +1,6 @@
+C:\Users\knork\Desktop\ITC110\arrayExamples\arrayExample\arrayExample\bin\Debug\arrayExample.exe.config
+C:\Users\knork\Desktop\ITC110\arrayExamples\arrayExample\arrayExample\bin\Debug\arrayExample.exe
+C:\Users\knork\Desktop\ITC110\arrayExamples\arrayExample\arrayExample\bin\Debug\arrayExample.pdb
+C:\Users\knork\Desktop\ITC110\arrayExamples\arrayExample\arrayExample\obj\Debug\arrayExample.csprojResolveAssemblyReference.cache
+C:\Users\knork\Desktop\ITC110\arrayExamples\arrayExample\arrayExample\obj\Debug\arrayExample.exe
+C:\Users\knork\Desktop\ITC110\arrayExamples\arrayExample\arrayExample\obj\Debug\arrayExample.pdb

@@ -1,0 +1,12 @@
+\\S-C-FS00\SChomes\U991187528\WindowsProfile\Desktop\ITC110\Assignment7\NorkAssignment7\NorkAssignment7\bin\Debug\NorkAssignment7.exe.config
+\\S-C-FS00\SChomes\U991187528\WindowsProfile\Desktop\ITC110\Assignment7\NorkAssignment7\NorkAssignment7\obj\Debug\NorkAssignment7.csprojResolveAssemblyReference.cache
+\\S-C-FS00\SChomes\U991187528\WindowsProfile\Desktop\ITC110\Assignment7\NorkAssignment7\NorkAssignment7\bin\Debug\NorkAssignment7.exe
+\\S-C-FS00\SChomes\U991187528\WindowsProfile\Desktop\ITC110\Assignment7\NorkAssignment7\NorkAssignment7\bin\Debug\NorkAssignment7.pdb
+\\S-C-FS00\SChomes\U991187528\WindowsProfile\Desktop\ITC110\Assignment7\NorkAssignment7\NorkAssignment7\obj\Debug\NorkAssignment7.exe
+\\S-C-FS00\SChomes\U991187528\WindowsProfile\Desktop\ITC110\Assignment7\NorkAssignment7\NorkAssignment7\obj\Debug\NorkAssignment7.pdb
+C:\Users\knork\Desktop\ITC110\Assignment7\NorkAssignment7\NorkAssignment7\bin\Debug\NorkAssignment7.exe.config
+C:\Users\knork\Desktop\ITC110\Assignment7\NorkAssignment7\NorkAssignment7\obj\Debug\NorkAssignment7.exe
+C:\Users\knork\Desktop\ITC110\Assignment7\NorkAssignment7\NorkAssignment7\obj\Debug\NorkAssignment7.pdb
+C:\Users\knork\Desktop\ITC110\Assignment7\NorkAssignment7\NorkAssignment7\obj\Debug\NorkAssignment7.csprojResolveAssemblyReference.cache
+C:\Users\knork\Desktop\ITC110\Assignment7\NorkAssignment7\NorkAssignment7\bin\Debug\NorkAssignment7.exe
+C:\Users\knork\Desktop\ITC110\Assignment7\NorkAssignment7\NorkAssignment7\bin\Debug\NorkAssignment7.pdb

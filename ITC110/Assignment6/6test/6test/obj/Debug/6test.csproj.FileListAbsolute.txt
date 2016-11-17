@@ -1,0 +1,14 @@
+\\S-C-FS00\SChomes\U991187528\WindowsProfile\Desktop\ITC110\#6\6test\6test\bin\Debug\6test.exe.config
+\\S-C-FS00\SChomes\U991187528\WindowsProfile\Desktop\ITC110\#6\6test\6test\obj\Debug\6test.csprojResolveAssemblyReference.cache
+C:\Users\knork\Desktop\ITC110\#6\6test\6test\bin\Debug\6test.exe.config
+C:\Users\knork\Desktop\ITC110\#6\6test\6test\obj\Debug\6test.csprojResolveAssemblyReference.cache
+C:\Users\knork\Desktop\ITC110\#6\6test\6test\bin\Debug\6test.exe
+C:\Users\knork\Desktop\ITC110\#6\6test\6test\bin\Debug\6test.pdb
+C:\Users\knork\Desktop\ITC110\#6\6test\6test\obj\Debug\6test.exe
+C:\Users\knork\Desktop\ITC110\#6\6test\6test\obj\Debug\6test.pdb
+E:\ITC110\Assignment6\6test\6test\bin\Debug\6test.exe.config
+E:\ITC110\Assignment6\6test\6test\obj\Debug\6test.exe
+E:\ITC110\Assignment6\6test\6test\obj\Debug\6test.pdb
+E:\ITC110\Assignment6\6test\6test\bin\Debug\6test.exe
+E:\ITC110\Assignment6\6test\6test\bin\Debug\6test.pdb
+E:\ITC110\Assignment6\6test\6test\obj\Debug\6test.csprojResolveAssemblyReference.cache

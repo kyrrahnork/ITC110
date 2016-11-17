@@ -1,0 +1,6 @@
+C:\Users\knork\Desktop\ITC 110\PeerExerciseIfs\PeerExerciseIfs\bin\Debug\PeerExerciseIfs.exe.config
+C:\Users\knork\Desktop\ITC 110\PeerExerciseIfs\PeerExerciseIfs\obj\Debug\PeerExerciseIfs.csprojResolveAssemblyReference.cache
+C:\Users\knork\Desktop\ITC 110\PeerExerciseIfs\PeerExerciseIfs\bin\Debug\PeerExerciseIfs.exe
+C:\Users\knork\Desktop\ITC 110\PeerExerciseIfs\PeerExerciseIfs\bin\Debug\PeerExerciseIfs.pdb
+C:\Users\knork\Desktop\ITC 110\PeerExerciseIfs\PeerExerciseIfs\obj\Debug\PeerExerciseIfs.exe
+C:\Users\knork\Desktop\ITC 110\PeerExerciseIfs\PeerExerciseIfs\obj\Debug\PeerExerciseIfs.pdb

@@ -1,0 +1,6 @@
+C:\Users\knork\Desktop\ITC 110\Assignment4\Assignment4_1\Assignment4_1\bin\Debug\Assignment4_1.exe.config
+C:\Users\knork\Desktop\ITC 110\Assignment4\Assignment4_1\Assignment4_1\bin\Debug\Assignment4_1.exe
+C:\Users\knork\Desktop\ITC 110\Assignment4\Assignment4_1\Assignment4_1\bin\Debug\Assignment4_1.pdb
+C:\Users\knork\Desktop\ITC 110\Assignment4\Assignment4_1\Assignment4_1\obj\Debug\Assignment4_1.csprojResolveAssemblyReference.cache
+C:\Users\knork\Desktop\ITC 110\Assignment4\Assignment4_1\Assignment4_1\obj\Debug\Assignment4_1.exe
+C:\Users\knork\Desktop\ITC 110\Assignment4\Assignment4_1\Assignment4_1\obj\Debug\Assignment4_1.pdb

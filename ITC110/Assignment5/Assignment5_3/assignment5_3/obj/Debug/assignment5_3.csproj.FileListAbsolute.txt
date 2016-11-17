@@ -1,0 +1,6 @@
+C:\Users\knork\Desktop\ITC110\Assignment5\assignment5_3\assignment5_3\bin\Debug\assignment5_3.exe.config
+C:\Users\knork\Desktop\ITC110\Assignment5\assignment5_3\assignment5_3\obj\Debug\assignment5_3.csprojResolveAssemblyReference.cache
+C:\Users\knork\Desktop\ITC110\Assignment5\assignment5_3\assignment5_3\bin\Debug\assignment5_3.exe
+C:\Users\knork\Desktop\ITC110\Assignment5\assignment5_3\assignment5_3\bin\Debug\assignment5_3.pdb
+C:\Users\knork\Desktop\ITC110\Assignment5\assignment5_3\assignment5_3\obj\Debug\assignment5_3.exe
+C:\Users\knork\Desktop\ITC110\Assignment5\assignment5_3\assignment5_3\obj\Debug\assignment5_3.pdb

@@ -1,0 +1,6 @@
+C:\Users\knork\Desktop\ITC110\PeerExArray\PeerExArray\PeerExArray\bin\Debug\PeerExArray.exe.config
+C:\Users\knork\Desktop\ITC110\PeerExArray\PeerExArray\PeerExArray\obj\Debug\PeerExArray.csprojResolveAssemblyReference.cache
+C:\Users\knork\Desktop\ITC110\PeerExArray\PeerExArray\PeerExArray\bin\Debug\PeerExArray.exe
+C:\Users\knork\Desktop\ITC110\PeerExArray\PeerExArray\PeerExArray\bin\Debug\PeerExArray.pdb
+C:\Users\knork\Desktop\ITC110\PeerExArray\PeerExArray\PeerExArray\obj\Debug\PeerExArray.exe
+C:\Users\knork\Desktop\ITC110\PeerExArray\PeerExArray\PeerExArray\obj\Debug\PeerExArray.pdb
