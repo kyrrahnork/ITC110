@@ -1,0 +1,14 @@
+C:\Users\knork\Desktop\ITC110\Assignment8\Assignment8-1\Assignment8-1\bin\Debug\Assignment8-1.exe.config
+C:\Users\knork\Desktop\ITC110\Assignment8\Assignment8-1\Assignment8-1\obj\Debug\Assignment8-1.csprojResolveAssemblyReference.cache
+C:\Users\knork\Desktop\ITC110\Assignment8\Assignment8-1\Assignment8-1\obj\Debug\MainWindow.g.cs
+C:\Users\knork\Desktop\ITC110\Assignment8\Assignment8-1\Assignment8-1\obj\Debug\App.g.cs
+C:\Users\knork\Desktop\ITC110\Assignment8\Assignment8-1\Assignment8-1\obj\Debug\Assignment8-1_MarkupCompile.cache
+C:\Users\knork\Desktop\ITC110\Assignment8\Assignment8-1\Assignment8-1\obj\Debug\Assignment8-1_MarkupCompile.lref
+C:\Users\knork\Desktop\ITC110\Assignment8\Assignment8-1\Assignment8-1\bin\Debug\Assignment8-1.exe
+C:\Users\knork\Desktop\ITC110\Assignment8\Assignment8-1\Assignment8-1\bin\Debug\Assignment8-1.pdb
+C:\Users\knork\Desktop\ITC110\Assignment8\Assignment8-1\Assignment8-1\obj\Debug\MainWindow.baml
+C:\Users\knork\Desktop\ITC110\Assignment8\Assignment8-1\Assignment8-1\obj\Debug\Assignment8-1.g.resources
+C:\Users\knork\Desktop\ITC110\Assignment8\Assignment8-1\Assignment8-1\obj\Debug\Assignment8_1.Properties.Resources.resources
+C:\Users\knork\Desktop\ITC110\Assignment8\Assignment8-1\Assignment8-1\obj\Debug\Assignment8-1.csproj.GenerateResource.Cache
+C:\Users\knork\Desktop\ITC110\Assignment8\Assignment8-1\Assignment8-1\obj\Debug\Assignment8-1.exe
+C:\Users\knork\Desktop\ITC110\Assignment8\Assignment8-1\Assignment8-1\obj\Debug\Assignment8-1.pdb

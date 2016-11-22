@@ -1,0 +1,23 @@
+﻿<Window x:Class="Assignment8_1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Assignment8_1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Label x:Name="labelMeal_Amount" Content="Meal Price" HorizontalAlignment="Left" Margin="51,35,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBoxMealPrice" HorizontalAlignment="Left" Height="23" Margin="119,38,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <CheckBox x:Name="checkBox10" Content="10%" HorizontalAlignment="Left" Margin="51,130,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="checkBox15" Content="15%" HorizontalAlignment="Left" Margin="51,157,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="checkBox20" Content="20%" HorizontalAlignment="Left" Margin="51,184,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="checkBoxOther" Content="Other" HorizontalAlignment="Left" Margin="51,213,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="labelTip" Content="Tip Percentage" HorizontalAlignment="Left" Margin="47,94,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="labelOther" Content="Other Tip Percentage" HorizontalAlignment="Left" Margin="131,208,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBoxOther" HorizontalAlignment="Left" Height="23" Margin="258,211,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="buttonCalculate" Content="Press to Total" HorizontalAlignment="Left" Margin="220,250,0,0" VerticalAlignment="Top" Width="106" Click="buttonSubmit_Click"/>
+        <Label x:Name="labelTotal" Content="Total" HorizontalAlignment="Left" Margin="68,277,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
