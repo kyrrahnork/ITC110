@@ -67,7 +67,8 @@ namespace NorkAssignment9
 
         private void buttonExit_Click(object sender, RoutedEventArgs e)
         {
-            this.Close();
+            //this.Close();
+            Application.Current.Shutdown();
         }
     }
 }
